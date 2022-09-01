@@ -1,0 +1,2 @@
+# Crypto Arbitrage
+This is a CLI application designed to determine if any arbitrage opportunities exist for Bitcoin and other cryptocurrencies by sorting through historical trade data on two exchanges: Bitstamp and Coinbase which is then followed by a financial analysis.
